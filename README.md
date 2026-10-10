@@ -7,6 +7,7 @@
 
 <br/>
 
+
 <img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00ff66?style=for-the-badge&labelColor=050505" alt="System online"/>
 <img src="https://img.shields.io/badge/IDENTITY-ROHIT_SHARMA-00ff66?style=for-the-badge&labelColor=050505" alt="Rohit Sharma identity"/>
 
@@ -70,4 +71,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,50:00ff66,100:000000&height=100&section=footer" width="100%" alt="Animated-style green footer"/>
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rohitdevika/rohitxd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Rohitdevika GitHub Contribution Snake"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rohitdevika/rohitxd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Rohitdevika GitHub Contribution Snake"/>
 </div>
